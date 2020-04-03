@@ -12,7 +12,8 @@
 		{"date": "23/08/3017", "caller": "Ident1", "receiver":"Ident3"},
 		{"date": "19/08/3017", "caller": "Ident4", "receiver":"Ident1"},
 		{"date": "22/08/3017", "caller": "Ident1", "receiver":"Ident5"},
-		{"date": "28/08/3017", "caller": "Ident1", "receiver":"Ident6"}
+		{"date": "28/08/3017", "caller": "Ident1", "receiver":"Ident6"},
+		{"date": "02/09/3017", "caller": "Ident7", "receiver":"Ident1"}
 	],
 
 	"identifier": [
@@ -21,6 +22,7 @@
 		{"identCode": "Ident3", "number": 458, "name": "Boromir"},
 		{"identCode": "Ident4", "number": 123, "name": "Gandalf"},
 		{"identCode": "Ident5", "number": 459, "name": "Beregond"},
-		{"identCode": "Ident6", "number": 159, "name": "Theoden"}
+		{"identCode": "Ident6", "number": 159, "name": "Theoden"},
+		{"identCode": "Ident7", "number": 234, "name": "Saruman"}
 	]
 }
