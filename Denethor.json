@@ -1,0 +1,26 @@
+{
+	"callHistory": [
+		{"date": "15/08/3017", "caller": "Ident1", "receiver":"Ident2"},
+		{"date": "15/08/3017", "caller": "Ident1", "receiver":"Ident3"},
+		{"date": "16/08/3017", "caller": "Ident1", "receiver":"Ident3"},
+		{"date": "17/08/3017", "caller": "Ident1", "receiver":"Ident3"},
+		{"date": "18/08/3017", "caller": "Ident1", "receiver":"Ident3"},
+		{"date": "19/08/3017", "caller": "Ident1", "receiver":"Ident3"},
+		{"date": "20/08/3017", "caller": "Ident1", "receiver":"Ident3"},
+		{"date": "21/08/3017", "caller": "Ident1", "receiver":"Ident3"},
+		{"date": "22/08/3017", "caller": "Ident1", "receiver":"Ident3"},
+		{"date": "23/08/3017", "caller": "Ident1", "receiver":"Ident3"},
+		{"date": "19/08/3017", "caller": "Ident4", "receiver":"Ident1"},
+		{"date": "22/08/3017", "caller": "Ident1", "receiver":"Ident5"},
+		{"date": "28/08/3017", "caller": "Ident1", "receiver":"Ident6"}
+	],
+
+	"identifier": [
+		{"identCode": "Ident1", "number": 456, "name": "Denethor"},
+		{"identCode": "Ident2", "number": 457, "name": "Faramir"},
+		{"identCode": "Ident3", "number": 458, "name": "Boromir"},
+		{"identCode": "Ident4", "number": 123, "name": "Gandalf"},
+		{"identCode": "Ident5", "number": 459, "name": "Beregond"},
+		{"identCode": "Ident6", "number": 159, "name": "Theoden"}
+	]
+}

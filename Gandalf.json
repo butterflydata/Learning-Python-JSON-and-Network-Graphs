@@ -1,0 +1,22 @@
+{
+	"callHistory": [
+		{"date": "15/06/3017", "caller": "Ident1", "receiver":"Ident2"},
+		{"date": "16/08/3017", "caller": "Ident3", "receiver":"Ident1"},
+		{"date": "17/08/3017", "caller": "Ident4", "receiver":"Ident1"},
+		{"date": "19/08/3017", "caller": "Ident1", "receiver":"Ident5"},
+		{"date": "21/08/3017", "caller": "Ident1", "receiver":"Ident6"},
+		{"date": "24/08/3017", "caller": "Ident7", "receiver":"Ident1"},
+		{"date": "02/09/3017", "caller": "Ident1", "receiver":"Ident8"}
+	],
+
+	"identifier": [
+		{"identCode": "Ident1", "number": 123, "name": "Gandalf"},
+		{"identCode": "Ident2", "number": 321, "name": "Frodo"},
+		{"identCode": "Ident3", "number": 111, "name": "Aragorn"},
+		{"identCode": "Ident4", "number": 234, "name": "Saruman"},
+		{"identCode": "Ident5", "number": 987, "name": "Elrond"},
+		{"identCode": "Ident6", "number": 456, "name": "Denethor"},
+		{"identCode": "Ident7", "number": 333, "name": "Bilbo"},
+		{"identCode": "Ident8", "number": 567, "name": "Galadriel"}		
+	]
+}

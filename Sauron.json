@@ -1,0 +1,27 @@
+{
+	"callHistory": [
+		{"date": "10/01/3017", "caller": "Ident1", "receiver":"Ident2"},
+		{"date": "11/01/3017", "caller": "Ident1", "receiver":"Ident2"},
+		{"date": "15/01/3017", "caller": "Ident1", "receiver":"Ident2"},
+		{"date": "29/01/3017", "caller": "Ident1", "receiver":"Ident2"},
+		{"date": "01/02/3017", "caller": "Ident1", "receiver":"Ident2"},
+		{"date": "13/02/3017", "caller": "Ident1", "receiver":"Ident2"},
+		{"date": "02/04/3017", "caller": "Ident3", "receiver":"Ident1"},
+		{"date": "10/05/3017", "caller": "Ident4", "receiver":"Ident1"},
+		{"date": "14/06/3017", "caller": "Ident1", "receiver":"Ident5"},
+		{"date": "20/06/3017", "caller": "Ident1", "receiver":"Ident6"},
+		{"date": "25/07/3017", "caller": "Ident7", "receiver":"Ident1"},
+		{"date": "02/08/3017", "caller": "Ident1", "receiver":"Ident8"}
+	],
+
+	"identifier": [
+		{"identCode": "Ident1", "number": 666, "name": "Sauron"},
+		{"identCode": "Ident2", "number": 234, "name": "Saruman"},
+		{"identCode": "Ident3", "number": 667, "name": "Nazgul 1"},
+		{"identCode": "Ident4", "number": 668, "name": "Nazgul 2"},
+		{"identCode": "Ident5", "number": 669, "name": "Nazgul 3"},
+		{"identCode": "Ident6", "number": 670, "name": "Nazgul 4"},
+		{"identCode": "Ident7", "number": 671, "name": "Nazgul 5"},
+		{"identCode": "Ident8", "number": 123, "name": "Gollum"}		
+	]
+}
